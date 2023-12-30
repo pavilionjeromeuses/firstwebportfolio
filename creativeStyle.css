@@ -1,0 +1,346 @@
+body {
+    background-color: white;
+}
+
+/*HEADER*/
+.blackBGabove {
+    width: 2165px;
+    height: 60px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #231F20;
+}
+
+.creativeHeader {
+    color: #FFF;
+    font-family: Microsoft YaHei UI;
+    font-size: 30px;
+    position: absolute;
+    left: 20px;
+    top: -20px;
+}
+
+/*ART*/
+.art {
+    position: absolute;
+    left: 25px;
+    bottom: 225px;
+}
+
+.artJapanese {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 85px;
+    top: -80px;
+}
+
+.artEnglish {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 100px;
+    bottom: -90px;
+    text-align: center;
+}
+
+/*DESIGN*/
+.design {
+    position: absolute;
+    left: 325px;
+    bottom: 225px;
+}
+
+.designJapanese {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 85px;
+    top: -80px;
+}
+
+.designEnglish {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 85px;
+    bottom: -90px;
+    text-align: center;
+}
+
+/*MARKETING*/
+.marketing {
+    position: absolute;
+    left: 625px;
+    bottom: 225px;
+}
+
+.marketingJapanese {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 100px;
+    top: -80px;
+}
+
+.marketingEnglish {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 60px;
+    bottom: -90px;
+    text-align: center;
+}
+
+/*ANIMATION*/
+.animation {
+    position: absolute;
+    left: 925px;
+    bottom: 225px;
+}
+
+.animationJapanese {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 90px;
+    top: -80px;
+}
+
+.animationEnglish {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 60px;
+    bottom: -90px;
+    text-align: center;
+}
+
+/*VIDEO*/
+.video {
+    position: absolute;
+    left: 1225px;
+    bottom: 225px;
+}
+
+.videoJapanese {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 90px;
+    top: -80px;
+}
+
+.videoEnglish {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 90px;
+    bottom: -90px;
+    text-align: center;
+}
+
+/*3D*/
+.threeD {
+    position: absolute;
+    left: 1525px;
+    bottom: 225px;
+}
+
+.threeDjapanese {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 90px;
+    top: -80px;
+}
+
+.threeDenglish {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 110px;
+    bottom: -90px;
+    text-align: center;
+}
+
+.writing {
+    position: absolute;
+    left: 1825px;
+    bottom: 225px;
+}
+
+.writingJapanese {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 133px;
+    top: -80px;
+}
+
+.writingEnglish {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 110px;
+    bottom: -90px;
+    text-align: center;
+}
+
+
+/*FOOTER*/
+.blackBGbelow {
+    width: 2165px;
+    height: 60px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #231F20;
+}
+
+.contactIcons {
+    position: absolute;
+    left: -300px;
+    bottom: 0px;
+}
+
+.homeWord {
+    color: #FFF;
+    font-family: Microsoft YaHei UI;
+    font-size: 16.3px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 27px;
+    bottom: 0px;
+}
+
+.home {
+    width: 0px;
+    height: 0px;
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: #FFF;
+    position: absolute;
+    left: 8px;
+    bottom: 50px;
+}
+
+.documents {
+    color: #FFF;
+    font-family: Microsoft YaHei UI;
+    font-size: 16.3px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 105px;
+    bottom: 0px;
+}
+
+/*CONTACTS*/
+.mail {
+    position: absolute;
+    left: 550px;
+    bottom: 5px;
+}
+
+.linkedIn {
+    position: absolute;
+    left: 600px;
+    bottom: 5px;
+}
+
+.onlineJobsPH {
+    position: absolute;
+    left: 650px;
+    bottom: 5px;
+}
+
+.upwork {
+    position: absolute;
+    left: 700px;
+    bottom: 5px;
+}
+
+.skype {
+    position: absolute;
+    left: 750px;
+    bottom: 5px;
+}
+
+.discord {
+    position: absolute;
+    left: 800px;
+    bottom: 5px;
+}
+
+.telegram {
+    position: absolute;
+    left: 850px;
+    bottom: 5px;
+}
+
+.whatsApp {
+    position: absolute;
+    left: 900px;
+    bottom: 5px;
+}

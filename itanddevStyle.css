@@ -1,0 +1,379 @@
+body {
+    background-color: white;
+}
+
+/*HEADER*/
+.blackBGabove {
+    width: 2925px;
+    height: 60px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #231F20;
+}
+
+.creativeHeader {
+    color: #FFF;
+    font-family: Microsoft YaHei UI;
+    font-size: 30px;
+    position: absolute;
+    left: 20px;
+    top: -20px;
+}
+
+/*FULL STACK*/
+.fullStack {
+    position: absolute;
+    left: 25px;
+    bottom: 225px;
+}
+
+.fullStackJapanese {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 80px;
+    top: -80px;
+}
+
+.fullStackEnglish {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 80px;
+    bottom: -90px;
+    text-align: center;
+}
+
+/*ANDROID*/
+.android {
+    position: absolute;
+    left: 390px;
+    bottom: 225px;
+}
+
+.androidJapanese {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 85px;
+    top: -80px;
+}
+
+.androidEnglish {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 95px;
+    bottom: -90px;
+    text-align: center;
+}
+
+/*AI & DATA*/
+.aiAndData {
+    position: absolute;
+    left: 755px;
+    bottom: 225px;
+}
+
+.aiAndDataJapanese {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 55px;
+    top: -80px;
+}
+
+.aiAndDataEnglish {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 90px;
+    bottom: -90px;
+    text-align: center;
+}
+
+/*BLOCKCHAIN*/
+.blockchain {
+    position: absolute;
+    left: 1120px;
+    bottom: 225px;
+}
+
+.blockchainJapanese {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 55px;
+    top: -80px;
+}
+
+.blockchainEnglish {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 70px;
+    bottom: -90px;
+    text-align: center;
+}
+
+/*QA*/
+.qa {
+    position: absolute;
+    left: 1485px;
+    bottom: 225px;
+}
+
+.qaJapanese {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 120px;
+    top: -80px;
+}
+
+.qaEnglish {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 135px;
+    bottom: -90px;
+    text-align: center;
+}
+
+/*CYBER SECURITY*/
+.cyberSecurity {
+    position: absolute;
+    left: 1850px;
+    bottom: 225px;
+}
+
+.cyberSecurityJapanese {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 35px;
+    top: -80px;
+}
+
+.cyberSecurityEnglish {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 55px;
+    bottom: -90px;
+    text-align: center;
+}
+
+/*GAME DEVELOPMENT*/
+.gameDevelopment {
+    position: absolute;
+    left: 2215px;
+    bottom: 225px;
+}
+
+.gameDevelopmentJapanese {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 90px;
+    top: -80px;
+}
+
+.gameDevelopmentEnglish {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 90px;
+    bottom: -90px;
+    text-align: center;
+}
+
+/*TECHNICAL WRITING*/
+.technicalWriting {
+    position: absolute;
+    left: 2580px;
+    bottom: 225px;
+}
+
+.technicalWritingJapanese {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 85px;
+    top: -80px;
+}
+
+.technicalWritingEnglish {
+    color: #231F20;
+    font-family: Microsoft YaHei UI;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 85px;
+    bottom: -90px;
+    text-align: center;
+}
+
+
+/*FOOTER*/
+.blackBGbelow {
+    width: 2925px;
+    height: 60px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #231F20;
+}
+
+.contactIcons {
+    position: absolute;
+    left: -300px;
+    bottom: 0px;
+}
+
+.homeWord {
+    color: #FFF;
+    font-family: Microsoft YaHei UI;
+    font-size: 16.3px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 27px;
+    bottom: 0px;
+}
+
+.home {
+    width: 0px;
+    height: 0px;
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: #FFF;
+    position: absolute;
+    left: 8px;
+    bottom: 50px;
+}
+
+.documents {
+    color: #FFF;
+    font-family: Microsoft YaHei UI;
+    font-size: 16.3px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    left: 105px;
+    bottom: 0px;
+}
+
+/*CONTACTS*/
+.mail {
+    position: absolute;
+    left: 550px;
+    bottom: 5px;
+}
+
+.linkedIn {
+    position: absolute;
+    left: 600px;
+    bottom: 5px;
+}
+
+.onlineJobsPH {
+    position: absolute;
+    left: 650px;
+    bottom: 5px;
+}
+
+.upwork {
+    position: absolute;
+    left: 700px;
+    bottom: 5px;
+}
+
+.skype {
+    position: absolute;
+    left: 750px;
+    bottom: 5px;
+}
+
+.discord {
+    position: absolute;
+    left: 800px;
+    bottom: 5px;
+}
+
+.telegram {
+    position: absolute;
+    left: 850px;
+    bottom: 5px;
+}
+
+.whatsApp {
+    position: absolute;
+    left: 900px;
+    bottom: 5px;
+}
