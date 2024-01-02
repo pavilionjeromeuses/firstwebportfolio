@@ -1,2 +1,2 @@
 # firstwebportfolio
-My first web portfolio ( Basic HTML, CSS & Javascript)
+My first web portfolio (HTML, CSS & Javascript, Adobe Illustrator, Figma & VS Code)
